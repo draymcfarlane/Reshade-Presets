@@ -2,43 +2,58 @@
 Presets for CarX Street, the Raytraced present was created using SocietysREALISTIC.ini and the Rain preset was created using RealisticRain.ini, both being used as templates. 
 Their discord links can be found below. I tweaked each preset and adding and removing a few features to enhance the look and experience.
 
-All assets belong to [Neexspid](https://discord.com/invite/E7B3AGrEHW) and [Societys Lounge](https://discord.gg/eStfaucC) respectively
+All assets belong to [Neexspid](https://discord.com/invite/E7B3AGrEHW) and [Societys Lounge](https://discord.gg/eStfaucC) respectively.
+
+## Requirements:
+- [RTGIGlobalIllumination](https://www.patreon.com/mcflypg/posts)
+- [CompleteRT](https://www.patreon.com/NiceGuy147/posts)
+- [ReShade 6.2.0](https://reshade.me/downloads/ReShade_Setup_6.2.0.exe)
+
+# Examples
 
 ## Ray Tracing
 Ran with a RTX3070, AMD 5600X, and 32gb RAM produces around 40 frames on average.
 
 ### Night
 Off
+
 ![image](https://github.com/user-attachments/assets/bfaafd52-99e4-4726-8664-a9b25249eeac)
 
 On
+
 ![image](https://github.com/user-attachments/assets/768aa5a8-e65d-4d14-a89c-4bdeea085a64)
 
 
 ### Night City
 Off
+
 ![image](https://github.com/user-attachments/assets/7eebf856-e2bf-4868-ad84-5801540c597d)
 
 On
+
 ![image](https://github.com/user-attachments/assets/52c3c07a-8f84-41a6-9528-ee04235b196d)
 
 
 ### Morning
 Off
+
 ![image](https://github.com/user-attachments/assets/96ca26ad-3d92-4ed8-b4a7-f599f1d3c33e)
 
 On
+
 ![image](https://github.com/user-attachments/assets/941a069f-08c3-4a75-a8dd-be8d1a22e8d0)
 
 
 ### Day
 Off
+
 ![image](https://github.com/user-attachments/assets/048aeb7a-6791-4ecf-af39-84954c49f168)
 
 https://github.com/user-attachments/assets/3f69861f-204a-4daf-a187-611ffba1bb68
 
 
 On
+
 ![image](https://github.com/user-attachments/assets/859fad10-f29c-4181-b3de-0a3f412e3c77)
 
 https://github.com/user-attachments/assets/b6075a1b-4857-4cc2-af1c-b81fe8694e32
