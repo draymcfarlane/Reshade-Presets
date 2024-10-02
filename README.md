@@ -1,6 +1,6 @@
 # Reshade-Presets
 
-# **All links are click to download!**
+## **The two preset links below are click to download!**
 
 Presets for CarX Street, the Raytraced present was created using [SocietysREALISTIC.ini](https://cdn.discordapp.com/attachments/1279890126482313216/1283009958052495390/SocietysREALISTIC.ini?ex=66fdc7e3&is=66fc7663&hm=14f30ccb7885c520466fffe04a4d7b93c096b9a6776fce54ed7688ea7b8abb02&) and the Rain preset was created using [RealisticRain.ini](https://cdn.discordapp.com/attachments/1284914014173925477/1285305813350482035/RealisticRain.ini?ex=66fd9051&is=66fc3ed1&hm=209d93d5cdd1aab6f13304417283e2d32a748c3a8b5193278d26357423382b91&), both being used as templates. 
 
